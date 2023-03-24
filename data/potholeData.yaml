@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/collab_assets/yolov5/potholeData/images/train
+val: /content/drive/MyDrive/collab_assets/yolov5/potholeData/images/val
+test: /content/drive/MyDrive/collab_assets/yolov5/potholeData/images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ["pothole"]
