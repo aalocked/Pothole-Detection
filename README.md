@@ -30,3 +30,6 @@ pip install -r requirements.txt
 python detect.py
 ```
 
+## License
+This project is licensed under GNU General Public License v3.0 
+
